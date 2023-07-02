@@ -10,7 +10,7 @@ body,
   width: 100%;
 }
 body {
-  background-image: url(fond.png);
+  background-image: url(fond.webp);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
